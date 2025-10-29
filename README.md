@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-## I'm a Lead Architect for web applications
+## I'm a Lead Architect
 
 - ⚡ Expert in Javascript development
 - Most of my interesting open source libraries are published on [DWTechs organization page](https://github.com/DWTechs).
