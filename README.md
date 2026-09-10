@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## I'm a Lead Architect
 
 - ⚡ Expert in web development
-- Most of my interesting open source libraries are published on
+- Most of my interesting open source libraries are published on :
   - [DWTechs organization page](https://github.com/DWTechs) for web application libraries and utilities
   - [ALTEN group organization page](https://github.com/ALTEN-group) for off-the-shelf web services and AI solutions
   - [1 Pizza Team organization page](https://github.com/1pizzateam) for game development tools
