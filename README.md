@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## I'm a CTO
 
-- ⚡ Expert in web technologies
+- ⚡ Expert in web technologies and AI
 - Most of my interesting open source libraries are published on :
   - [DWTechs](https://github.com/DWTechs) organization page for web application libraries and utilities
   - [ALTEN group](https://github.com/ALTEN-group) organization page for off-the-shelf web services and AI solutions
