@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-## I'm a Lead Architect
+## I'm a CTO
 
-- ⚡ Expert in web development
+- ⚡ Expert in web technologies
 - Most of my interesting open source libraries are published on :
   - [DWTechs organization page](https://github.com/DWTechs) for web application libraries and utilities
   - [ALTEN group organization page](https://github.com/ALTEN-group) for off-the-shelf web services and AI solutions
