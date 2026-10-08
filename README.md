@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-## I'm a CTO
+## I'm an Account CTO
 
 - ⚡ Expert in web technologies and AI
 - Most of my interesting open source libraries are published on :
