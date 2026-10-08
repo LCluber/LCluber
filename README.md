@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## I'm an Account CTO
 
 - ⚡ Expert in web technologies and AI
-- Most of my interesting open source libraries are published on :
-  - [DWTechs](https://github.com/DWTechs) organization page for web application libraries and utilities
+- Most of my interesting open source work is published on :
   - [ALTEN group](https://github.com/ALTEN-group) organization page for off-the-shelf web services and AI solutions
+  - [DWTechs](https://github.com/DWTechs) organization page for web application libraries and utilities
   - [1 Pizza Team](https://github.com/1pizzateam) organization page for game development tools
